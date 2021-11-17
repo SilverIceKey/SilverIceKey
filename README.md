@@ -10,7 +10,7 @@ About Me(╯‵□′)╯︵┻━┻
     email:"z516798599@gmail.com",
     major:"Android(java/kotlin)",
     target:"Full Stack Engineer",
-    curlearning:"Machine Learning",
+    curlearning:"Vue/JS/Spring",
     current_state:"too lazy to study.",
     want:"next month have power to study."
 }
