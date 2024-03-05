@@ -3,7 +3,7 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=SilverIceKey&show_icons=true&theme=prussian" />  
 
-[【春天的大白】](https://home.silvericekey.fun:19951)
+[【春天的大白】](https://blog.silvericekey.fun)
 
 ```
 About Me(╯‵□′)╯︵┻━┻
