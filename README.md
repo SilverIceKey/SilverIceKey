@@ -1,7 +1,7 @@
 
-<div align="center">
+<center>
     [【春天的大白】](https://blog.silvericekey.top)  
-</div>
+</center>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SilverIceKey&count_private=true" width="450"/>
 </p>
