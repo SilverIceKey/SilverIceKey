@@ -9,7 +9,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-MIT-blue"/>
-<img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/group.svg"/>
 </p>
 
 ```
