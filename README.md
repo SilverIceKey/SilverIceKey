@@ -6,11 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SilverIceKey&count_private=true" width="450"/>
 </p>
 <br>
-<p align="center">
-    <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
-    <img src="https://img.shields.io/badge/license-MIT-blue"/>
-</p>
-<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
