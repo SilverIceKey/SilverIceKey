@@ -2,13 +2,16 @@
 <p align="center">
     <a href="https://blog.silvericekey.top">【春天的大白】</a>
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SilverIceKey&count_private=true" width="450"/>
-</p>
+### 统计/Statistics
+
+| [![SilverIceKey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverIceKey&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverIceKey&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 <br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
+<img src="https://img.shields.io/badge/language-java-green.svg"/>
 <img src="https://img.shields.io/badge/license-MIT-blue"/>
 </p>
 
