@@ -32,6 +32,9 @@
 | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [SKExtension](https://github.com/SilverIceKey/SIKExtension)  | 一个Kotlin扩展和工具库 <img src="https://jitpack.io/v/SilverIceKey/SIKExtension.svg"/> |
-| [RichText](https://github.com/SilverIceKey/RichText)         | 一个挺废物的富文本编辑器 |
+| [RichText](https://github.com/SilverIceKey/RichText)         | 一个挺废物的富文本编辑器                                     |
 | [StepsView](https://github.com/SilverIceKey/StepsView)       | 简单的步骤控件 <img src="https://jitpack.io/v/SilverIceKey/StepsView.svg"/> |
+| [SIKCamera](https://github.com/SilverIceKey/SIKCamera)       | 本项目是使用CameraX进行简单的摄像头调用[![](https://jitpack.io/v/SilverIceKey/SIKCamera.svg)](https://jitpack.io/#SilverIceKey/SIKCamera) |
+| [SIKComposeHub](https://github.com/SilverIceKey/SIKComposeHub) | 本项目是Android Compose的开发中台，配置常用的颜色什么的用于开发使用的，目前处于飞舞状态[![](https://jitpack.io/v/SilverIceKey/SIKComposeHub.svg)](https://jitpack.io/#SilverIceKey/SIKComposeHub) |
+| [ZYZ-CSharp-Extension](https://github.com/ZYZ-Labs/ZYZ-CSharp-Extension) | 本项目是C#项目的一个扩展库 需要.net版本8.0                   |
 
