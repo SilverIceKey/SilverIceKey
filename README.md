@@ -13,7 +13,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/language-java-green.svg"/>
-<img src="https://img.shields.io/badge/language-java-green.svg"/>
 <img src="https://img.shields.io/badge/language-csharp-pink.svg"/>
 <img src="https://img.shields.io/badge/license-MIT-blue"/>
 </p>
