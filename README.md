@@ -32,7 +32,7 @@
 
 | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [SKExtension](https://github.com/SilverIceKey/SIKExtension)  | 一个Kotlin扩展和工具库 <img src="https://jitpack.io/v/SilverIceKey/SIKExtension.svg"/> |
+| [SIKExtension](https://github.com/SilverIceKey/SIKExtension)  | 一个Kotlin扩展和工具库 <img src="https://jitpack.io/v/SilverIceKey/SIKExtension.svg"/> |
 | [RichText](https://github.com/SilverIceKey/RichText)         | 一个挺废物的富文本编辑器                                     |
 | [StepsView](https://github.com/SilverIceKey/StepsView)       | 简单的步骤控件 <img src="https://jitpack.io/v/SilverIceKey/StepsView.svg"/> |
 | [SIKCamera](https://github.com/SilverIceKey/SIKCamera)       | 本项目是使用CameraX进行简单的摄像头调用<img src="https://jitpack.io/v/SilverIceKey/SIKCamera.svg"/> |
