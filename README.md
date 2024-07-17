@@ -38,5 +38,5 @@
 | [SIKCamera](https://github.com/SilverIceKey/SIKCamera)       | 本项目是使用CameraX进行简单的摄像头调用<img src="https://jitpack.io/v/SilverIceKey/SIKCamera.svg"/> |
 | [SIKComposeHub](https://github.com/SilverIceKey/SIKComposeHub)    | 本项目是Android Compose的开发中台，配置常用的颜色什么的用于开发使用的，目前处于飞舞状态<img src="https://jitpack.io/v/SilverIceKey/SIKComposeHub.svg"/> |
 | [ZYZ-CSharp-Extension](https://github.com/ZYZ-Labs/ZYZ-CSharp-Extension)     | 本项目是C#项目的一个扩展库 需要.net版本8.0                   |
-| [SIKNotificationUtils](https://github.com/SilverIceKey/SIKNotificationUtils)     | SIKNotificationUtils 是一个用于 Android 的通知工具库。                |
+| [SIKNotificationUtils](https://github.com/SilverIceKey/SIKNotificationUtils)     | SIKNotificationUtils 是一个用于 Android 的通知工具库。<img src="https://jitpack.io/v/SilverIceKey/SIKNotificationUtils.svg"/>                |
 
