@@ -10,7 +10,7 @@
 | [![SilverIceKey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverIceKey&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverIceKey&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-<br>
+![SilverIceKey's State Card](https://stats-cards-azure.vercel.app/api/github?username=SilverIceKey)
 
 <p align="center">
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
