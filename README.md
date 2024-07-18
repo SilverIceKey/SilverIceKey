@@ -17,7 +17,6 @@
     </tr>
     <tr>
         <td><img src="https://stats-cards-azure.vercel.app/api/csdn?id=SilverIceKnife" alt="CSDN Stats"/></td>
-        <td><img src="https://stats-cards-azure.vercel.app/api/stream" alt="Stream Stats"/></td>
     </tr>
 </table>
 
