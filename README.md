@@ -9,17 +9,18 @@
 
 | [![SilverIceKey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverIceKey&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverIceKey&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 <table>
     <tr>
-        <td>![SilverIceKey's State Card](https://stats-cards-azure.vercel.app/api/github?username=SilverIceKey)</td>
-        <td>![SilverIceKey's State Card](https://stats-cards-azure.vercel.app/api/bilibili?id=9108753)</td>
+        <td><img src="https://stats-cards-azure.vercel.app/api/github?username=SilverIceKey" alt="GitHub Stats"/></td>
+        <td><img src="https://stats-cards-azure.vercel.app/api/bilibili?id=9108753" alt="Bilibili Stats"/></td>
     </tr>
-
     <tr>
-        <td>![SilverIceKey's State Card](https://stats-cards-azure.vercel.app/api/csdn?id=SilverIceKnife)</td>
-        <td>![SilverIceKey's State Card](https://stats-cards-azure.vercel.app/api/stream)</td>
+        <td><img src="https://stats-cards-azure.vercel.app/api/csdn?id=SilverIceKnife" alt="CSDN Stats"/></td>
+        <td><img src="https://stats-cards-azure.vercel.app/api/stream" alt="Stream Stats"/></td>
     </tr>
 </table>
+
 
 
 <p align="center">
