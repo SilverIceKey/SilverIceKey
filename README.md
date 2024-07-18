@@ -3,6 +3,8 @@
     <a href="https://blog.silvericekey.top">【春天的大白】</a>
 </p>
 
+![:SilverIceKey](https://moe-counter.glitch.me/get/@:SilverIceKey?theme=gelbooru)
+
 ### 统计/Statistics
 
 | [![SilverIceKey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverIceKey&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverIceKey&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
